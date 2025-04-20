@@ -77,8 +77,6 @@ Collection of small projects exploring:
 - ✨ DOM manipulation techniques
 - [🔗 Explore Projects](https://github.com/00tatheer00/javascript-mini-projects)
 
-![Project Showcase](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
 ---
 
 ## 📫 Connect With Me
