@@ -8,7 +8,7 @@
 - 🌱 **Mastering** ES6 features, Advanced React patterns, and Node.js optimizations
 - 👨‍🏫 **Teaching** JavaScript & Web Development at Saylani Mass IT Training Center Peshawar
 - 💼 **Freelance** WordPress Developer & UI/UX Designer
-- 📚 **Creating** JavaScript Mini Projects to demonstrate core concepts
+- 📚 **Creating** JavaScript Projects to demonstrate core and advanced concepts
 - ✉️ **Reach me:** tatheerabidi00@gmail.com
 
 
