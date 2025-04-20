@@ -11,7 +11,6 @@
 - 📚 **Creating** JavaScript Mini Projects to demonstrate core concepts
 - ✉️ **Reach me:** tatheerabidi00@gmail.com
 
-![Coding Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -45,7 +44,6 @@
 
 </div>
 
-![Code Lines](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ---
 
@@ -104,5 +102,3 @@ Collection of small projects exploring:
 - 👨‍🎓 Mentoring aspiring developers
 
 > *"Continuous learning is at the heart of everything I do."* 💡
-
-![Motivational GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
