@@ -9,7 +9,7 @@ I'm a passionate MERN stack developer and instructor specializing in JavaScript 
 - 👨‍🏫 Teaching **JavaScript & Web Development** at Saylani Mass IT Training Center Peshawar
 - 💼 Freelance **WordPress Developer & UI/UX Designer**
 - 📚 Creating **JavaScript Mini Projects** to demonstrate core concepts
-- ✉️ Reach me: **your.email@example.com** (replace with your actual email)
+- ✉️ Reach me: **tatheerabidi00@gmail.com**
 
 ---
 
@@ -36,9 +36,9 @@ I'm a passionate MERN stack developer and instructor specializing in JavaScript 
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues)](https://github.com/00tatheer00)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/00tatheer00)
 
 ---
 
@@ -76,10 +76,9 @@ Collection of small projects exploring:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tatheer-hussain)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tatheer.vercel.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatheerabidi00@gmail.com)
 
 ---
 
