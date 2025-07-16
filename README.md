@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S Tatheer Hussain 
 
-**💻 Web Developer | 🎓 Instructor | 🧩 Problem Solver**
+**💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
 
 🚀 I'm a passionate MERN stack developer and instructor specializing in JavaScript technologies. I love building scalable web applications and teaching others how to code effectively.
 
