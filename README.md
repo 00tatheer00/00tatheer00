@@ -76,8 +76,10 @@ I focus on practical, industry-driven software development and modern JavaScript
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=radical&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=radical)
+![Tatheer's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=00tatheer00&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=radical)
+
 
 </div>
 
