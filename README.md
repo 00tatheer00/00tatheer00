@@ -2,20 +2,34 @@
 
 **💼 CEO & Founder – Tech4Edges | 💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
 
-I’m a passionate full-stack developer and educator, currently leading **Tech4Edges**, a software company based in Peshawar delivering modern digital products, SaaS solutions, and client-focused software services.
+I’m a passionate full-stack developer, educator, and founder of **Tech4Edges**, a Peshawar-based software company building modern digital products and high-quality client solutions.
 
-With strong expertise in the MERN stack, PHP, and scalable application development, I focus on writing clean, maintainable code while helping students and teams grow through modern development practices.
+With expertise in MERN Stack, PHP, MySQL, and scalable architectures, I focus on clean code, performance, and teaching developers to grow with real-world projects.
+
+---
+
+## 🧑‍🏫 Teaching & Academic Roles
+
+I actively teach and mentor students across multiple institutes and countries:
+
+- 🎓 **Visiting Lecturer – University of Peshawar**
+- 🟦 **Instructor – Saylani Mass IT Training Center, Peshawar**
+- 🏢 **Trainer – Arfa Karim Technology Incubator**
+- 🟩 **Certified Trainer – NAVTTC (Govt. of Pakistan)**
+- 🌍 **International Instructor – Teaching Arizona, USA–based Students (Online)**
+
+I focus on practical, industry-driven software development and modern JavaScript technologies.
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 💼 **CEO & Founder – Tech4Edges**  
-- 💻 **Full-Stack Developer** (JavaScript, PHP, React, Node, MySQL, MongoDB)  
-- 🎓 **Instructor** at Saylani Mass IT Training – Peshawar  
-- 🧩 Problem solver with a focus on performance, security, and system design  
-- 🌍 Freelance **WordPress Developer & UI/UX Designer**  
-- ✉️ **Email:** tatheerabidi00@gmail.com  
+- 💼 CEO & Founder of **Tech4Edges**
+- 💻 Full-Stack Developer (JavaScript, PHP, React, Node.js, MySQL, MongoDB)
+- 🎓 Instructor & Visiting Lecturer across top institutes
+- 🌍 International Coach for US-based learners  
+- 🧩 Problem solver focused on performance, security & system design  
+- ✉️ Email: **tatheerabidi00@gmail.com**
 
 ---
 
@@ -71,29 +85,29 @@ With strong expertise in the MERN stack, PHP, and scalable application developme
 
 ## 🎓 Teaching Philosophy
 
-> *"I believe in practical, project-based learning that builds confidence and real-world problem-solving skills. My focus is always on writing clean code, understanding the fundamentals, and applying concepts through hands-on development."*
+> *"I believe in practical, project-based learning that builds confidence and real-world problem-solving skills. Strong fundamentals + real projects = strong developers."*
 
-### 📚 Key Teaching Areas
-- JavaScript (Fundamentals → Advanced)
-- DOM, Modern CSS & Responsive UI
-- React.js & State Management
-- MERN Stack Development
-- Git/GitHub Workflows
+### 📚 Areas I Teach
+- JavaScript (Beginner → Advanced)
+- DOM & Modern CSS  
+- React.js & State Management  
+- MERN Stack  
+- Git/GitHub Workflows  
+- Backend APIs & Database Design  
 
 ---
 
 ## 🚀 Recent Projects
 
 ### 📚 Tutor Finder  
-A full-stack educational marketplace:  
-- Tutor gigs, reviews, student dashboards  
-- Real-time messaging  
-- Admin management system  
+A full-stack tutoring marketplace  
+- Tutor gigs, reviews, dashboards  
+- Real-time chat system  
+- Admin management panel  
 🔗 https://github.com/00tatheer00/tutor-finder  
 
 ### 🧩 JavaScript Mini Projects  
-A large collection of interactive JS projects:  
-- Games, tools, animations, APIs  
+A collection of creative JS projects  
 🔗 https://github.com/00tatheer00/javascript-mini-projects
 
 ---
@@ -108,10 +122,10 @@ A large collection of interactive JS projects:
 
 ## 🎯 Current Goals
 
-- Build scalable SaaS applications  
-- Deep-dive into advanced JavaScript & system design  
-- Strengthen React performance patterns  
-- Contribute to open-source projects  
+- Build scalable SaaS products  
+- Advance expertise in ES6+ & system design  
+- Build high-performance React applications  
+- Expand Tech4Edges products & services  
 - Mentor and uplift aspiring developers  
 
-> *"Growth is continuous — and every project is an opportunity to learn."* ✨
+> *"Growth is a continuous journey — and every line of code adds to it."* ✨
