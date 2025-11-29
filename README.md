@@ -1,16 +1,21 @@
-# 👋 Hi, I'm S Tatheer Hussain 
+# 👋 Hi, I'm **S. Tatheer Hussain**
 
-**💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
+**💼 CEO & Founder – Tech4Edges | 💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
 
-🚀 I'm a passionate MERN stack developer and instructor specializing in JavaScript technologies. I love building scalable web applications and teaching others how to code effectively.
+I’m a passionate full-stack developer and educator, currently leading **Tech4Edges**, a software company based in Peshawar delivering modern digital products, SaaS solutions, and client-focused software services.
 
-- 🔭 **Currently working on** [Tutor Finder](https://github.com/00tatheer00/tutor-finder) - A full-stack platform connecting students with tutors
-- 🌱 **Mastering** ES6 features, Advanced React patterns, and Node.js optimizations
-- 👨‍🏫 **Teaching** JavaScript & Web Development at Saylani Mass IT Training Center Peshawar
-- 💼 **Freelance** WordPress Developer & UI/UX Designer
-- 📚 **Creating** JavaScript Projects to demonstrate core and advanced concepts
-- ✉️ **Reach me:** tatheerabidi00@gmail.com
+With strong expertise in the MERN stack, PHP, and scalable application development, I focus on writing clean, maintainable code while helping students and teams grow through modern development practices.
 
+---
+
+## 🧑‍💼 About Me
+
+- 💼 **CEO & Founder – Tech4Edges**  
+- 💻 **Full-Stack Developer** (JavaScript, PHP, React, Node, MySQL, MongoDB)  
+- 🎓 **Instructor** at Saylani Mass IT Training – Peshawar  
+- 🧩 Problem solver with a focus on performance, security, and system design  
+- 🌍 Freelance **WordPress Developer & UI/UX Designer**  
+- ✉️ **Email:** tatheerabidi00@gmail.com  
 
 ---
 
@@ -27,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -35,6 +40,8 @@
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -48,49 +55,46 @@
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=radical&hide=issues)](https://github.com/00tatheer00)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=radical)](https://github.com/00tatheer00)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=radical&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=radical)
 
 </div>
-
 
 ---
 
 ## 🎓 Teaching Philosophy
 
-> *"I believe in hands-on, project-based learning that bridges theory with real-world application. My approach focuses on building strong fundamentals while encouraging creative problem-solving."* ✨
+> *"I believe in practical, project-based learning that builds confidence and real-world problem-solving skills. My focus is always on writing clean code, understanding the fundamentals, and applying concepts through hands-on development."*
 
-**📚 Recent Teaching Topics:**
-- 🟨 JavaScript Fundamentals to Advanced Concepts
-- 🖥️ DOM Manipulation & Modern CSS Techniques
-- ⚛️ React.js & State Management
-- 🔗 MERN Stack Application Development
-- 🐙 Git/GitHub Workflows
+### 📚 Key Teaching Areas
+- JavaScript (Fundamentals → Advanced)
+- DOM, Modern CSS & Responsive UI
+- React.js & State Management
+- MERN Stack Development
+- Git/GitHub Workflows
 
 ---
 
 ## 🚀 Recent Projects
 
-### 📚 Tutor Finder
-A full-stack platform connecting students with tutors featuring:
-- 👨‍🏫 Tutor gig creation and reviews
-- 💬 Student-tutor messaging system
-- 👨‍💼 Admin dashboard for user management
-- [🔗 View Project](https://github.com/00tatheer00/tutor-finder)
+### 📚 Tutor Finder  
+A full-stack educational marketplace:  
+- Tutor gigs, reviews, student dashboards  
+- Real-time messaging  
+- Admin management system  
+🔗 https://github.com/00tatheer00/tutor-finder  
 
-### 🧩 JavaScript Mini Projects
-Collection of small projects exploring:
-- 🎮 Interactive games and tools
-- 🌐 API integrations
-- 🌀 Creative animations
-- ✨ DOM manipulation techniques
-- [🔗 Explore Projects](https://github.com/00tatheer00/javascript-mini-projects)
+### 🧩 JavaScript Mini Projects  
+A large collection of interactive JS projects:  
+- Games, tools, animations, APIs  
+🔗 https://github.com/00tatheer00/javascript-mini-projects
 
 ---
 
@@ -100,15 +104,14 @@ Collection of small projects exploring:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tatheer.vercel.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatheerabidi00@gmail.com)
 
-
 ---
 
 ## 🎯 Current Goals
 
-- 📚 Mastering advanced ES6+ JavaScript features
-- 🏗️ Building high-impact, scalable web applications
-- ⚡ Expanding knowledge in React performance optimization
-- 🌍 Contributing to open-source projects
-- 👨‍🎓 Mentoring aspiring developers
+- Build scalable SaaS applications  
+- Deep-dive into advanced JavaScript & system design  
+- Strengthen React performance patterns  
+- Contribute to open-source projects  
+- Mentor and uplift aspiring developers  
 
-> *"Continuous learning is at the heart of everything I do."* 💡
+> *"Growth is continuous — and every project is an opportunity to learn."* ✨
