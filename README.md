@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **S. Tatheer Hussain**
 
-**💼 CEO & Founder – Tech4Edges | 💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
+**💼 Founder – Tech4Edges | 💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
 
 I’m a passionate full-stack developer, educator, and founder of **Tech4Edges**, a Peshawar-based software company building modern digital products and high-quality client solutions.
 
