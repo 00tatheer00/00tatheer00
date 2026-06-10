@@ -10,7 +10,7 @@ Currently building products, serving international clients, and contributing to 
 
 ---
 
-## 🚀 Open To Opportunities
+## Open To Opportunities
 
 - 🌍 Remote Full Stack Developer Roles
 - ⚛️ React / Next.js Developer Positions
@@ -84,7 +84,7 @@ Currently building products, serving international clients, and contributing to 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 💳 Installment Management System
 
