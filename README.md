@@ -1,34 +1,33 @@
 # 👋 Hi, I'm **S. Tatheer Hussain**
 
-**💼 Founder – Tech4Edges | 💻 Software Engineer | 🎓 Instructor | 🧩 Problem Solver**
+**Full Stack Engineer | React & Next.js Developer | Founder – Tech4Edges**
 
-I’m a passionate full-stack developer, educator, and founder of **Tech4Edges**, a Peshawar-based software company building modern digital products and high-quality client solutions.
+I'm a passionate Full Stack Engineer specializing in building scalable web applications, SaaS platforms, business automation systems, and modern digital products.
 
-With expertise in MERN Stack, PHP, MySQL, and scalable architectures, I focus on clean code, performance, and teaching developers to grow with real-world projects.
+With expertise in **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PHP, and cloud deployment platforms**, I focus on writing clean, maintainable code and delivering high-performance solutions for real-world business challenges.
 
----
-
-## 🧑‍🏫 Teaching & Academic Roles
-
-I actively teach and mentor students across multiple institutes and countries:
-
-- 🎓 **Visiting Lecturer – University of Peshawar**
-- 🟦 **Instructor – Saylani Mass IT Training Center, Peshawar**
-- 🏢 **Trainer – Arfa Karim Technology Incubator**
-- 🟩 **Certified Trainer – NAVTTC (Govt. of Pakistan)**
-- 🌍 **International Instructor – Teaching Arizona, USA–based Students (Online)**
-
-I focus on practical, industry-driven software development and modern JavaScript technologies.
+Currently building products, serving international clients, and contributing to modern web development through practical software engineering and mentorship.
 
 ---
 
-## 🧑‍💼 About Me
+## 🚀 Open To Opportunities
 
-- 💼 CEO & Founder of **Tech4Edges**
-- 💻 Full-Stack Developer (JavaScript, PHP, React, Node.js, MySQL, MongoDB)
-- 🎓 Instructor & Visiting Lecturer across top institutes
-- 🌍 International Coach for US-based learners  
-- 🧩 Problem solver focused on performance, security & system design  
+- 🌍 Remote Full Stack Developer Roles
+- ⚛️ React / Next.js Developer Positions
+- 💼 Software Engineer Opportunities
+- 🤝 Contract & Freelance Projects
+- 🚀 International Product Teams
+
+---
+
+## 💼 Professional Summary
+
+- 💻 Full Stack Engineer (React, Next.js, Node.js, PHP)
+- 🚀 Founder & CEO of **Tech4Edges**
+- 🌍 Experience working with international clients
+- 🏗️ Building SaaS Products & Enterprise Systems
+- 🔐 Focused on Performance, Security & Scalability
+- 🎓 Mentor & Technical Trainer
 - ✉️ Email: **tatheerabidi00@gmail.com**
 
 ---
@@ -85,35 +84,40 @@ I focus on practical, industry-driven software development and modern JavaScript
 
 ---
 
-## 🎓 Teaching Philosophy
+## 🚀 Featured Projects
 
-> *"I believe in practical, project-based learning that builds confidence and real-world problem-solving skills. Strong fundamentals + real projects = strong developers."*
+### 💳 Installment Management System
 
-### 📚 Areas I Teach
-- JavaScript (Beginner → Advanced)
-- DOM & Modern CSS  
-- React.js & State Management  
-- MERN Stack  
-- Git/GitHub Workflows  
-- Backend APIs & Database Design  
+Enterprise-grade platform for customer management, installment tracking, payment records, and administrative workflows.
 
----
+### 🚚 Courier & Logistics Management System
 
-## 🚀 Recent Projects
+A complete logistics platform featuring shipment tracking, customer handling, operational workflows, and reporting.
 
-### 📚 Tutor Finder  
-A full-stack tutoring marketplace  
-- Tutor gigs, reviews, dashboards  
-- Real-time chat system  
-- Admin management panel  
-🔗 https://github.com/00tatheer00/tutor-finder  
+### 🎓 Student ERP System
 
-### 🧩 JavaScript Mini Projects  
-A collection of creative JS projects  
-🔗 https://github.com/00tatheer00/javascript-mini-projects
+Educational management solution supporting attendance tracking, result management, student records, and administration.
+
+### 📚 Tutor Finder Marketplace
+
+A full-stack tutoring marketplace with dashboards, reviews, real-time communication, and administration tools.
+
+### 🛒 E-Commerce Platform with Stripe Integration
+
+Modern online store with secure payments, authentication, product management, and order processing.
 
 ---
 
+## 🎓 Teaching & Mentorship
+
+Alongside software development, I mentor aspiring developers and teach modern web technologies through universities, training institutes, and online programs.
+
+- 🎓 Visiting Lecturer – University of Peshawar
+- 🟦 Senior Trainer – Saylani Mass IT Training Center
+- 🏢 Master Trainer – Arfa Karim Technology Incubator
+- 🟩 Certified Trainer – NAVTTC (Government of Pakistan)
+
+---
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tatheer-hussain)
@@ -121,13 +125,5 @@ A collection of creative JS projects
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatheerabidi00@gmail.com)
 
 ---
-
-## 🎯 Current Goals
-
-- Build scalable SaaS products  
-- Advance expertise in ES6+ & system design  
-- Build high-performance React applications  
-- Expand Tech4Edges products & services  
-- Mentor and uplift aspiring developers  
 
 > *"Growth is a continuous journey — and every line of code adds to it."* ✨
