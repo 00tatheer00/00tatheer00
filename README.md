@@ -1,334 +1,210 @@
-<div align="center">
-
-# 👋 Hi, I'm **S. Tatheer Hussain**
-
-### Founder & CEO @ Tech4Edges • Full Stack Software Engineer • MERN Stack Specialist • AI Automation Engineer
-
-<img src="./assets/dark.svg#gh-dark-mode-only" alt="GitHub Banner" width="100%" />
-<img src="./assets/light.svg#gh-light-mode-only" alt="GitHub Banner" width="100%" />
-
-<p>
-
-Building scalable software, SaaS products, AI-powered solutions, and modern digital experiences.
-
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=00tatheer00&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/00tatheer00?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/00tatheer00?affiliations=OWNER&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm a passionate **Full Stack Software Engineer** and the **Founder & CEO of Tech4Edges**, where I build modern web applications, enterprise software, SaaS platforms, AI-powered automations, and scalable digital products.
-
-With a strong focus on clean architecture, performance, scalability, and user experience, I enjoy transforming business ideas into reliable software solutions that create real impact.
-
-My expertise spans the entire software development lifecycle—from planning and UI design to backend architecture, deployment, optimization, and maintenance.
-
-I constantly explore emerging technologies and enjoy solving challenging engineering problems with modern development practices.
-
----
-
-# 👨‍💻 Professional Summary
-
-- 💼 Founder & CEO of **Tech4Edges**
-- 🚀 Full Stack Software Engineer
-- ⚛️ MERN Stack Specialist
-- 🤖 AI Automation Engineer
-- 🏗 SaaS Product Developer
-- 🌍 Technical Consultant
-- 🎯 Solution Architect
-- 📱 Responsive Web Application Developer
-- ☁ Cloud Deployment Specialist
-- 📈 Performance Optimization Enthusiast
-
----
-
-# 🌍 Information
-
-| | |
-|:--|:--|
-| 👤 Name | S. Tatheer Hussain |
-| 📍 Location | Peshawar, Pakistan |
-| 💼 Company | Tech4Edges |
-| 🎓 Degree | Bachelor of Computer Science |
-| 💻 Experience | Full Stack Development |
-| 🌱 Currently Learning | AI Agents, Cloud Architecture, Distributed Systems |
-| 🚀 Current Focus | Enterprise SaaS, AI Products & Automation |
-| 💬 Ask Me About | React, Next.js, Node.js, MongoDB, Laravel, PHP, AI |
-| ⚡ Fun Fact | I love turning business ideas into scalable software. |
-
----
-
-# 🎯 What I Build
-
-### 🌐 Modern Websites
-
-Beautiful, responsive, SEO-friendly websites built with modern technologies.
-
----
-
-### 🚀 SaaS Applications
-
-Scalable software-as-a-service platforms designed for startups and businesses.
-
----
-
-### 🤖 AI Automation
-
-Business automations powered by modern AI workflows and APIs.
-
----
-
-### 📊 Enterprise Systems
-
-Management systems, dashboards, portals, CRMs, ERPs and custom software.
-
----
-
-### 📱 Progressive Web Apps
-
-Fast, installable applications providing native-like experiences.
-
----
-
-### ☁ Cloud Applications
-
-Applications deployed using modern cloud infrastructure with scalability in mind.
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase"/>
-
-</p>
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis"/>
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vercel,cloudflare"/>
-
-</p>
-
----
-
-## Design & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,bash"/>
-
-</p>
-
----
-
-# 💼 Services
-
-✔ Full Stack Development
-
-✔ MERN Stack Development
-
-✔ Next.js Applications
-
-✔ React Applications
-
-✔ REST API Development
-
-✔ Authentication Systems
-
-✔ Database Design
-
-✔ SaaS Development
-
-✔ AI Integrations
-
-✔ Enterprise Dashboards
-
-✔ CMS Development
-
-✔ Admin Panels
-
-✔ Cloud Deployment
-
-✔ Performance Optimization
-
-✔ Technical Consulting
-
-✔ Code Reviews
-
-✔ Software Architecture
-
----
-
-# 🚀 Current Focus
-
-Currently I'm focused on building
-
-- 🤖 AI-powered business automations
-- 🚀 Enterprise SaaS platforms
-- 🌐 Modern web applications
-- 📊 Admin dashboards
-- 📱 High-performance frontend experiences
-- ☁ Cloud-native applications
-- 🔐 Secure authentication systems
-- ⚡ Highly scalable backend architectures
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Tech4Edges** | Software Company | MERN |
-| **Emerging Edge School of Technology** | Learning Platform | Next.js |
-| **AI Automation Suite** | Business Automation | OpenAI + Node.js |
-| **Enterprise CRM** | Business Management | MERN |
-| **Clinic Management System** | Healthcare Solution | React + Laravel |
-| **Travel & Tourism Platform** | Booking System | MERN |
-| **Portfolio Ecosystem** | Personal Branding | Next.js |
-
----
-
-# 📊 GitHub Analytics
-
+👋 Hi, I'm S. Tatheer Hussain
+> **Founder & CEO @ Tech4Edges • Full Stack Software Engineer • MERN
+> Stack Specialist • AI Automation Engineer**
+```{=html}
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=transparent&hide_border=true"/>
-
+```
+`<img src="./assets/dark.svg#gh-dark-mode-only" width="100%">`{=html}
+`<img src="./assets/light.svg#gh-light-mode-only" width="100%">`{=html}
+```{=html}
 </p>
-
----
-
-# 🔥 GitHub Streak
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=00tatheer00&theme=transparent&hide_border=true"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=00tatheer00&style=for-the-badge&label=PROFILE+VIEWS"/>`{=html}
+`<img src="https://img.shields.io/github/followers/00tatheer00?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/github/stars/00tatheer00?affiliations=OWNER&style=for-the-badge"/>`{=html}
+```{=html}
 </p>
-
+```
 ---
+🚀 About Me
+I build premium software that helps businesses grow.
+As the Founder & CEO of Tech4Edges, I specialize in building
+scalable SaaS products, enterprise dashboards, AI-powered automation,
+modern websites, and high-performance web applications.
+My focus is on writing clean, maintainable code, designing scalable
+architectures, and delivering exceptional user experiences.
+---
+🧭 Navigation
+👨 About
+🏢 Tech4Edges
+🚀 Featured Projects
+🛠 Tech Stack
+🏗 Architecture
+🤖 AI & Automation
+📊 GitHub Analytics
+🏆 Achievements
+📚 Learning
+📬 Contact
+---
+🖥 Developer Card
+``` bash
+$ whoami
+S. Tatheer Hussain
 
-# 📈 Contribution Graph
+$ company
+Tech4Edges
 
+$ role
+Founder & CEO
+
+$ stack
+MERN • Next.js • Node.js • React
+
+$ mission
+Building AI-powered software.
+
+$ status
+Coding...
+```
+---
+🏢 Tech4Edges
+Tech4Edges is a software company focused on:
+Enterprise Software
+SaaS Development
+AI Automation
+CRM & ERP Systems
+Modern Websites
+Dashboards
+APIs
+Cloud Deployment
+---
+🛠 Tech Stack
+Frontend
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+Backend
+Node.js • Express • PHP • Laravel • Firebase
+Database
+MongoDB • MySQL • PostgreSQL • Redis
+DevOps
+Docker • Linux • AWS • Vercel • Railway • Render
+Tools
+Git • GitHub • VS Code • Cursor • Postman • Figma
+---
+🏗 Architecture
+REST APIs
+Authentication (JWT)
+RBAC
+MVC
+Repository Pattern
+Redis Cache
+Cloud Storage
+Microservices
+Clean Architecture
+---
+🤖 AI & Automation
+OpenAI
+AI Agents
+MCP
+Prompt Engineering
+RAG
+Automation Workflows
+Business Automation
+---
+🚀 Featured Projects
+Project                Description
+---
+Tech4Edges             Company Website
+Emerging Edge School   LMS Platform
+Enterprise CRM         Business Software
+AI Automation Suite    AI Workflows
+Travel Platform        Booking Platform
+---
+📊 GitHub Analytics
+``` text
+GitHub Readme Stats
+Top Languages
+Contribution Graph
+GitHub Streak
+Profile Trophy
+```
+Replace with:
+github-readme-stats
+streak-stats
+github-profile-trophy
+github-readme-activity-graph
+---
+🐍 Contribution Snake
+``` markdown
+Uses Platane/snk GitHub Action
+```
+---
+📦 GitHub Metrics
+Use lowlighter/metrics GitHub Action to generate:
+Achievements
+Calendar
+Languages
+Repositories
+Activity
+Discussions
+Habits
+---
+⌚ WakaTime
+Auto-update:
+Coding Hours
+Languages
+Editors
+Weekly Activity
+---
+📜 Experience Timeline
+Started Programming
+Freelance Development
+Founded Tech4Edges
+Building AI Products
+Enterprise SaaS Development
+---
+📚 Currently Learning
+AI Agents
+MCP
+Kubernetes
+Cloud Architecture
+System Design
+Distributed Systems
+---
+💼 Services
+Full Stack Development
+SaaS Development
+AI Automation
+REST APIs
+Dashboards
+Enterprise Software
+Cloud Deployment
+Technical Consulting
+---
+💭 Philosophy
+> Great software is not measured by lines of code, but by the problems
+> it solves.
+---
+📬 Connect
+GitHub: https://github.com/00tatheer00
+Portfolio: https://tatheer.dev
+Tech4Edges: https://tech4edges.com
+LinkedIn: https://linkedin.com/in/tatheer
+---
+⭐ Bonus Features Checklist
+[ ] Animated SVG Hero
+[ ] Dark / Light Banner
+[ ] GitHub Metrics
+[ ] WakaTime
+[ ] Snake Animation
+[ ] Activity Graph
+[ ] Repository Cards
+[ ] Visitor Counter
+[ ] Latest Blog Posts
+[ ] Latest YouTube Videos
+[ ] Spotify Now Playing
+[ ] GitHub Actions Automation
+[ ] Dynamic Quotes
+[ ] Tech4Edges Branding
+[ ] AI Showcase
+[ ] Professional Footer
+---
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=00tatheer00&theme=github-compact&hide_border=true"/>
-
+```
+Always Building. Always Learning. Always Improving.
+```{=html}
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=00tatheer00&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Exploring
-
-- Artificial Intelligence
-- AI Agents
-- MCP Servers
-- RAG Systems
-- LangChain
-- Multi-Agent Systems
-- Cloud Infrastructure
-- Kubernetes
-- Docker
-- Microservices
-- System Design
-- Distributed Architecture
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/00tatheer00">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://linkedin.com/in/tatheer">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="https://tatheer.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://tech4edges.com">
-<img src="https://img.shields.io/badge/Tech4Edges-Official-2563EB?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 💭 Philosophy
-
-> **"Technology is not just about writing code. It's about creating solutions that empower people, transform businesses, and shape the future."**
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-*"Always building. Always learning. Always improving."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-
-</div>
+```
