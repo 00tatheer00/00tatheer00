@@ -1,129 +1,173 @@
-# 👋 Hi, I'm **S. Tatheer Hussain**
+# <div align="center">
 
-**Full Stack Engineer | React & Next.js Developer | Founder – Tech4Edges**
+# Hi there 👋 I'm **S. Tatheer Hussain**
 
-I'm a passionate Full Stack Engineer specializing in building scalable web applications, SaaS platforms, business automation systems, and modern digital products.
+### Founder & CEO @ Tech4Edges • Full Stack Developer • MERN Stack Engineer • AI Automation Enthusiast
 
-With expertise in **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PHP, and cloud deployment platforms**, I focus on writing clean, maintainable code and delivering high-performance solutions for real-world business challenges.
-
-Currently building products, serving international clients, and contributing to modern web development through practical software engineering and mentorship.
-
----
-
-## Open To Opportunities
-
-- 🌍 Remote Full Stack Developer Roles
-- ⚛️ React / Next.js Developer Positions
-- 💼 Software Engineer Opportunities
-- 🤝 Contract & Freelance Projects
-- 🚀 International Product Teams
-
----
-
-## 💼 Professional Summary
-
-- 💻 Full Stack Engineer (React, Next.js, Node.js, PHP)
-- 🚀 Founder & CEO of **Tech4Edges**
-- 🌍 Experience working with international clients
-- 🏗️ Building SaaS Products & Enterprise Systems
-- 🔐 Focused on Performance, Security & Scalability
-- 🎓 Mentor & Technical Trainer
-- ✉️ Email: **tatheerabidi00@gmail.com**
-
----
-
-## 🛠️ Technical Skills
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tatheer's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=00tatheer00&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=radical)
-
+<img src="./assets/dark.svg#gh-dark-mode-only" width="100%" alt="Tatheer Hussain GitHub Banner" />
+<img src="./assets/light.svg#gh-light-mode-only" width="100%" alt="Tatheer Hussain GitHub Banner" />
 
 </div>
 
 ---
 
-##  Featured Projects
+## 🚀 About Me
 
-### 💳 Installment Management System
+I'm a passionate **Full Stack Developer** and the **Founder & CEO of Tech4Edges**, focused on building scalable web applications, SaaS platforms, AI-powered solutions, and modern digital products.
 
-Enterprise-grade platform for customer management, installment tracking, payment records, and administrative workflows.
+I enjoy turning complex ideas into clean, fast, and user-friendly software while continuously exploring new technologies.
 
-### 🚚 Courier & Logistics Management System
-
-A complete logistics platform featuring shipment tracking, customer handling, operational workflows, and reporting.
-
-### 🎓 Student ERP System
-
-Educational management solution supporting attendance tracking, result management, student records, and administration.
-
-### 📚 Tutor Finder Marketplace
-
-A full-stack tutoring marketplace with dashboards, reviews, real-time communication, and administration tools.
-
-### 🛒 E-Commerce Platform with Stripe Integration
-
-Modern online store with secure payments, authentication, product management, and order processing.
+- 🌍 **Location:** Peshawar, Pakistan
+- 💼 **Company:** Tech4Edges
+- 🌱 **Currently Learning:** AI Agents, Cloud Architecture & System Design
+- 🚀 **Currently Building:** Enterprise SaaS Products & AI Automations
+- 👨‍💻 **Specialization:** MERN Stack Development
+- 💬 **Ask me about:** React, Next.js, Node.js, MongoDB, Laravel, PHP & AI
+- ⚡ **Fun Fact:** I love solving real-world business problems with technology.
 
 ---
 
-## 🎓 Teaching & Mentorship
+# 🛠 Tech Stack
 
-Alongside software development, I mentor aspiring developers and teach modern web technologies through universities, training institutes, and online programs.
+### Frontend
 
-- 🎓 Visiting Lecturer – University of Peshawar
-- 🟦 Senior Trainer – Saylani Mass IT Training Center
-- 🏢 Master Trainer – Arfa Karim Technology Incubator
-- 🟩 Certified Trainer – NAVTTC (Government of Pakistan)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,firebase" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vercel,cloudflare" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn,bash" />
+</p>
 
 ---
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tatheer-hussain)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tatheer.vercel.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatheerabidi00@gmail.com)
+# 💼 What I Do
+
+- 🚀 Full Stack Web Development
+- 📱 Responsive Web Applications
+- 🤖 AI Automation Solutions
+- 🧠 SaaS Product Development
+- ⚙ REST APIs & Backend Systems
+- 🔐 Authentication & Security
+- ☁ Cloud Deployment
+- 🎨 UI/UX Implementation
+- 📊 Business Management Systems
+- 🌐 Company Websites & Portals
 
 ---
 
-> *"Growth is a continuous journey — and every line of code adds to it."* ✨
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 💼 Tech4Edges | Software House & Digital Solutions |
+| 🎓 Emerging Edge School of Technology | Learning Management Platform |
+| 🧠 AI Automation Tools | Business Productivity Systems |
+| 🌍 Enterprise Websites | Modern Responsive Websites |
+| 📦 SaaS Products | Custom Business Software |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=00tatheer00&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=00tatheer00&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=00tatheer00&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/00tatheer00">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/tatheer">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://tatheer.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://tech4edges.com">
+<img src="https://img.shields.io/badge/Tech4Edges-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> **"Great software isn't just about writing code — it's about solving problems, creating value, and making people's lives easier."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://komarev.com/ghpvc/?username=00tatheer00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
