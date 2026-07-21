@@ -262,3 +262,448 @@ Currently spending most of my time building:
 </div>
 
 ---
+
+# 🛠 Technology Stack
+
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+</p>
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,sass" />
+</p>
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vercel,cloudflare" />
+</p>
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,bash" />
+</p>
+
+</div>
+
+---
+
+# 💻 Software Engineering Expertise
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- Responsive Design
+- Progressive Web Apps
+- SEO Optimization
+
+</td>
+
+<td width="50%">
+
+### ⚙ Backend
+
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- REST APIs
+- Authentication
+- Authorization
+- JWT
+- OAuth
+- API Security
+- File Uploads
+- Email Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🗄 Databases
+
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
+- Data Modeling
+- Aggregation Pipelines
+- Query Optimization
+- Indexing
+- Database Security
+
+</td>
+
+<td>
+
+### ☁ Cloud
+
+- Vercel
+- Railway
+- Render
+- Docker
+- Linux
+- GitHub Actions
+- Cloud Storage
+- CDN
+- CI/CD
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏗 Software Architecture
+
+Modern software isn't only about writing code.
+
+It's about designing systems that are secure, scalable, maintainable, and easy to extend.
+
+### Architecture Patterns
+
+- MVC Architecture
+- REST API Architecture
+- Component-Based Design
+- Repository Pattern
+- Modular Folder Structure
+- Clean Architecture
+- Layered Architecture
+
+---
+
+### Authentication
+
+- JWT Authentication
+- Role Based Access Control (RBAC)
+- Protected Routes
+- Refresh Tokens
+- Password Encryption
+- Email Verification
+- OTP Authentication
+
+---
+
+### Performance Optimization
+
+- Lazy Loading
+- Code Splitting
+- Image Optimization
+- API Caching
+- Redis Cache
+- Database Indexing
+- CDN Optimization
+- Bundle Optimization
+
+---
+
+### Security
+
+- Helmet
+- CORS
+- Rate Limiting
+- XSS Protection
+- CSRF Protection
+- SQL Injection Prevention
+- Mongo Injection Prevention
+- Environment Variables
+
+---
+
+### API Development
+
+- REST APIs
+- CRUD APIs
+- Authentication APIs
+- Payment APIs
+- Third-party Integrations
+- File Upload APIs
+- Cloudinary Integration
+- Webhooks
+
+---
+
+# 🤖 AI & Automation
+
+Artificial Intelligence is transforming software development.
+
+I'm actively building AI-powered applications that improve productivity and automate business workflows.
+
+### AI Skills
+
+- OpenAI API
+- AI Chatbots
+- Prompt Engineering
+- AI Automation
+- Business Automation
+- AI Agents
+- MCP
+- Workflow Automation
+
+---
+
+### AI Use Cases
+
+- AI Assistants
+- Customer Support Bots
+- Business Automation
+- Lead Generation
+- Content Automation
+- AI Workflows
+- Productivity Tools
+- AI Integrations
+
+---
+
+# 💼 Services
+
+<table>
+
+<tr>
+
+<td>
+
+### 🚀 Development
+
+- Full Stack Development
+- MERN Applications
+- Next.js Websites
+- SaaS Platforms
+- Dashboards
+
+</td>
+
+<td>
+
+### ⚡ Backend
+
+- REST APIs
+- Node.js
+- Express
+- Laravel
+- Authentication
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ☁ Cloud
+
+- Deployment
+- Docker
+- CI/CD
+- Vercel
+- Railway
+- Render
+
+</td>
+
+<td>
+
+### 🤖 AI
+
+- AI Integration
+- Automation
+- AI Agents
+- OpenAI APIs
+- Business Automation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Tech4Edges
+
+> Modern software company focused on enterprise software, SaaS platforms, AI automation, and digital transformation.
+
+**Tech Stack**
+
+React • Next.js • Node.js • MongoDB
+
+---
+
+## 🎓 Emerging Edge School of Technology
+
+Learning Management Platform for modern software education.
+
+Features
+
+- Student Portal
+- Assignments
+- Attendance
+- Live Classes
+- Dashboard
+- Authentication
+
+---
+
+## 🤖 AI Automation Suite
+
+Business workflow automation using AI.
+
+Includes
+
+- Chatbots
+- Automation
+- OpenAI Integration
+- Lead Generation
+- Productivity Tools
+
+---
+
+## 🌍 Enterprise Websites
+
+Premium responsive websites for businesses.
+
+- SEO Optimized
+- Responsive
+- Fast
+- Modern UI
+- CMS Integration
+
+---
+
+## 📊 Business Dashboards
+
+Dashboard systems built for modern organizations.
+
+Examples
+
+- CRM
+- ERP
+- HRMS
+- School Management
+- Clinic Management
+- Inventory Management
+
+---
+
+# 📈 Professional Skills
+
+| Skill | Level |
+|-------|:------:|
+| Full Stack Development | ⭐⭐⭐⭐⭐ |
+| React.js | ⭐⭐⭐⭐⭐ |
+| Next.js | ⭐⭐⭐⭐⭐ |
+| Node.js | ⭐⭐⭐⭐⭐ |
+| Express.js | ⭐⭐⭐⭐⭐ |
+| MongoDB | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐⭐ |
+| TypeScript | ⭐⭐⭐⭐☆ |
+| Laravel | ⭐⭐⭐⭐☆ |
+| AI Integration | ⭐⭐⭐⭐☆ |
+| Cloud Deployment | ⭐⭐⭐⭐☆ |
+
+---
+
+# ⚡ Development Workflow
+
+```text
+Requirement Analysis
+
+        ↓
+
+Planning
+
+        ↓
+
+UI/UX Design
+
+        ↓
+
+Frontend Development
+
+        ↓
+
+Backend Development
+
+        ↓
+
+API Integration
+
+        ↓
+
+Testing
+
+        ↓
+
+Deployment
+
+        ↓
+
+Monitoring
+
+        ↓
+
+Continuous Improvement
+```
+
+---
+
+<div align="center">
+
+## 💡 "Simple architecture today saves hundreds of hours tomorrow."
+
+</div>
+
+---
