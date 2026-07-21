@@ -1,210 +1,264 @@
-👋 Hi, I'm S. Tatheer Hussain
-> **Founder & CEO @ Tech4Edges • Full Stack Software Engineer • MERN
-> Stack Specialist • AI Automation Engineer**
-```{=html}
-<p align="center">
-```
-`<img src="./assets/dark.svg#gh-dark-mode-only" width="100%">`{=html}
-`<img src="./assets/light.svg#gh-light-mode-only" width="100%">`{=html}
-```{=html}
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <strong>S. Tatheer Hussain</strong>
+
+### Founder & CEO @ Tech4Edges • Full Stack Software Engineer • MERN Stack Specialist • AI Automation Engineer
+
+<img src="./assets/dark.svg#gh-dark-mode-only" width="100%" alt="GitHub Dark Banner">
+
+<img src="./assets/light.svg#gh-light-mode-only" width="100%" alt="GitHub Light Banner">
+
+<br>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=00tatheer00&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/00tatheer00?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/00tatheer00?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Coffee-∞-brown?style=for-the-badge"/>
+
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=00tatheer00&style=for-the-badge&label=PROFILE+VIEWS"/>`{=html}
-`<img src="https://img.shields.io/github/followers/00tatheer00?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/stars/00tatheer00?affiliations=OWNER&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
+
+<br>
+
+### 💡 *Building software that solves real business problems.*
+
+*"Turning ideas into scalable digital products."*
+
+</div>
+
 ---
-🚀 About Me
-I build premium software that helps businesses grow.
-As the Founder & CEO of Tech4Edges, I specialize in building
-scalable SaaS products, enterprise dashboards, AI-powered automation,
-modern websites, and high-performance web applications.
-My focus is on writing clean, maintainable code, designing scalable
-architectures, and delivering exceptional user experiences.
+
+# ⚡ Welcome
+
+> Software engineering isn't just about writing code.
+
+It's about solving problems, designing scalable systems, automating businesses, and creating products that people genuinely love using.
+
+I'm passionate about building high-quality software with modern technologies while constantly exploring AI, cloud computing, scalable architectures, and developer productivity.
+
+My goal is simple:
+
+> **Build products that make businesses faster, smarter, and more successful.**
+
 ---
-🧭 Navigation
-👨 About
-🏢 Tech4Edges
-🚀 Featured Projects
-🛠 Tech Stack
-🏗 Architecture
-🤖 AI & Automation
-📊 GitHub Analytics
-🏆 Achievements
-📚 Learning
-📬 Contact
+
+# 🧭 Navigation
+
+- 👨 About Me
+- 🏢 Tech4Edges
+- 🚀 Featured Projects
+- 🛠 Tech Stack
+- 🏗 Software Architecture
+- 🤖 AI & Automation
+- 📊 GitHub Analytics
+- 📈 Development Activity
+- 💼 Professional Experience
+- 📚 Current Learning
+- 🎯 Future Goals
+- 📬 Contact
+
 ---
-🖥 Developer Card
-``` bash
+
+# 👨‍💻 About Me
+
+I'm **S. Tatheer Hussain**, a passionate Full Stack Software Engineer and the Founder & CEO of **Tech4Edges**, where we build scalable web applications, enterprise software, SaaS platforms, AI-powered solutions, and digital products for startups and businesses.
+
+I love transforming ideas into reliable software that delivers measurable value.
+
+Over the years I've worked across the complete software development lifecycle—from planning and architecture to UI design, backend engineering, deployment, optimization, and long-term maintenance.
+
+I believe great software is built through:
+
+- Clean architecture
+- Scalable systems
+- Great user experience
+- Continuous learning
+- Automation
+- Simplicity
+
+Outside development, I enjoy researching emerging technologies, experimenting with AI, improving developer workflows, and helping businesses adopt modern software solutions.
+
+---
+
+# 🖥 Developer Terminal
+
+```bash
+────────────────────────────────────────────
+
 $ whoami
+
 S. Tatheer Hussain
 
+────────────────────────────────────────────
+
 $ company
+
 Tech4Edges
 
+────────────────────────────────────────────
+
 $ role
+
 Founder & CEO
 
-$ stack
-MERN • Next.js • Node.js • React
+────────────────────────────────────────────
 
-$ mission
-Building AI-powered software.
+$ specialization
 
-$ status
-Coding...
-```
----
-🏢 Tech4Edges
-Tech4Edges is a software company focused on:
-Enterprise Software
-SaaS Development
-AI Automation
-CRM & ERP Systems
-Modern Websites
-Dashboards
-APIs
-Cloud Deployment
----
-🛠 Tech Stack
-Frontend
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
-Backend
-Node.js • Express • PHP • Laravel • Firebase
-Database
-MongoDB • MySQL • PostgreSQL • Redis
-DevOps
-Docker • Linux • AWS • Vercel • Railway • Render
-Tools
-Git • GitHub • VS Code • Cursor • Postman • Figma
----
-🏗 Architecture
-REST APIs
-Authentication (JWT)
-RBAC
-MVC
-Repository Pattern
-Redis Cache
-Cloud Storage
-Microservices
-Clean Architecture
----
-🤖 AI & Automation
-OpenAI
-AI Agents
-MCP
-Prompt Engineering
-RAG
-Automation Workflows
-Business Automation
----
-🚀 Featured Projects
-Project                Description
----
-Tech4Edges             Company Website
-Emerging Edge School   LMS Platform
-Enterprise CRM         Business Software
-AI Automation Suite    AI Workflows
-Travel Platform        Booking Platform
----
-📊 GitHub Analytics
-``` text
-GitHub Readme Stats
-Top Languages
-Contribution Graph
-GitHub Streak
-Profile Trophy
-```
-Replace with:
-github-readme-stats
-streak-stats
-github-profile-trophy
-github-readme-activity-graph
----
-🐍 Contribution Snake
-``` markdown
-Uses Platane/snk GitHub Action
-```
----
-📦 GitHub Metrics
-Use lowlighter/metrics GitHub Action to generate:
-Achievements
-Calendar
-Languages
-Repositories
-Activity
-Discussions
-Habits
----
-⌚ WakaTime
-Auto-update:
-Coding Hours
-Languages
-Editors
-Weekly Activity
----
-📜 Experience Timeline
-Started Programming
-Freelance Development
-Founded Tech4Edges
-Building AI Products
-Enterprise SaaS Development
----
-📚 Currently Learning
-AI Agents
-MCP
-Kubernetes
-Cloud Architecture
-System Design
-Distributed Systems
----
-💼 Services
 Full Stack Development
-SaaS Development
-AI Automation
-REST APIs
-Dashboards
-Enterprise Software
-Cloud Deployment
-Technical Consulting
----
-💭 Philosophy
-> Great software is not measured by lines of code, but by the problems
-> it solves.
----
-📬 Connect
-GitHub: https://github.com/00tatheer00
-Portfolio: https://tatheer.dev
-Tech4Edges: https://tech4edges.com
-LinkedIn: https://linkedin.com/in/tatheer
----
-⭐ Bonus Features Checklist
-[ ] Animated SVG Hero
-[ ] Dark / Light Banner
-[ ] GitHub Metrics
-[ ] WakaTime
-[ ] Snake Animation
-[ ] Activity Graph
-[ ] Repository Cards
-[ ] Visitor Counter
-[ ] Latest Blog Posts
-[ ] Latest YouTube Videos
-[ ] Spotify Now Playing
-[ ] GitHub Actions Automation
-[ ] Dynamic Quotes
-[ ] Tech4Edges Branding
-[ ] AI Showcase
-[ ] Professional Footer
----
-```{=html}
-<p align="center">
+
+────────────────────────────────────────────
+
+$ primary_stack
+
+React
+Next.js
+Node.js
+Express
+MongoDB
+
+────────────────────────────────────────────
+
+$ currently_building
+
+Enterprise SaaS
+AI Products
+Automation Systems
+
+────────────────────────────────────────────
+
+$ current_status
+
+Coding...
+
+███████████████████████████████ 100%
+
+────────────────────────────────────────────
 ```
-Always Building. Always Learning. Always Improving.
-```{=html}
-</p>
+
+---
+
+# 🌍 Quick Information
+
+| | |
+|:--|:--|
+| 👤 Name | S. Tatheer Hussain |
+| 🌍 Country | Pakistan |
+| 📍 City | Peshawar |
+| 💼 Company | Tech4Edges |
+| 💻 Position | Founder & CEO |
+| 🎓 Education | BS Computer Science |
+| 🚀 Experience | Full Stack Development |
+| 🌱 Learning | AI Agents • Cloud • System Design |
+| ❤️ Passion | Building Modern Digital Products |
+| ⚡ Fun Fact | I automate repetitive work whenever possible. |
+
+---
+
+# 🏢 About Tech4Edges
+
+<div align="center">
+
+### **Building Digital Solutions for the Future**
+
+</div>
+
+Tech4Edges is a software company focused on designing and developing modern digital products for startups, businesses, organizations, and entrepreneurs.
+
+We help businesses move from traditional workflows to powerful digital solutions.
+
+### Our Expertise
+
+- 🌐 Business Websites
+- 🚀 SaaS Platforms
+- 📊 Enterprise Dashboards
+- 🤖 AI Automation
+- 📱 Web Applications
+- 🔐 Authentication Systems
+- ☁ Cloud Deployment
+- 📦 REST APIs
+- 💼 CRM Systems
+- 🏥 Clinic Management Systems
+- 🧾 ERP Solutions
+- 📈 Business Automation
+
+---
+
+# 🎯 Mission
+
+Our mission is to empower businesses through technology by delivering reliable, scalable, and modern software solutions.
+
+We believe software should not only function correctly but also create measurable business value.
+
+---
+
+# 💭 Engineering Philosophy
+
+```text
+Think before coding.
+
+Design before developing.
+
+Keep architecture clean.
+
+Write maintainable code.
+
+Automate repetitive work.
+
+Measure performance.
+
+Optimize continuously.
+
+Never stop learning.
 ```
+
+---
+
+# 🚀 Current Focus
+
+Currently spending most of my time building:
+
+- 🤖 AI-powered business automation
+- 🚀 Enterprise SaaS products
+- 🌍 Modern company websites
+- 📊 Admin dashboards
+- ☁ Cloud-native applications
+- 🔐 Secure authentication systems
+- 📦 REST APIs
+- ⚡ High-performance web applications
+
+---
+
+# 🔥 What Drives Me
+
+✔ Solving real-world business problems
+
+✔ Writing clean and maintainable code
+
+✔ Learning emerging technologies
+
+✔ Building scalable software
+
+✔ Sharing knowledge
+
+✔ Creating impactful digital products
+
+✔ Automating repetitive workflows
+
+✔ Continuous self-improvement
+
+---
+
+<div align="center">
+
+## ⭐ "Code is temporary. Great software creates lasting impact."
+
+</div>
+
+---
