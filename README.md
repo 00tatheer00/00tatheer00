@@ -11,7 +11,7 @@
 
 ---
 
-<img src="./assets/terminal.png" width="100%" alt="ASCII neofetch-style developer profile">
+<img src="./assets/terminal.png" width="50%" alt="ASCII neofetch-style developer profile">
 
 ## About
 
