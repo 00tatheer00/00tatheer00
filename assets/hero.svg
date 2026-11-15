@@ -1,30 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Syed Tatheer Hussain — Software Developer</title>
-  <desc id="desc">Full-stack software developer, SaaS builder, and founder of Tech4Edges.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090f1d"/>
-      <stop offset="0.55" stop-color="#111c32"/>
-      <stop offset="1" stop-color="#07111f"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#60a5fa"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <circle cx="1050" cy="85" r="175" fill="#0ea5e9" opacity=".07"/>
-  <circle cx="1080" cy="290" r="115" fill="#38bdf8" opacity=".05"/>
-  <path d="M0 300 C230 240 390 340 610 282 S930 235 1200 300" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".5"/>
-  <g opacity=".22" stroke="#38bdf8" fill="none">
-    <path d="M900 105h130v55h-130zM1030 132h75v72h-75zM960 160v62h100"/>
-    <circle cx="900" cy="105" r="5" fill="#38bdf8"/>
-    <circle cx="1105" cy="204" r="5" fill="#38bdf8"/>
-  </g>
-  <text x="72" y="82" fill="#94a3b8" font-family="Arial, sans-serif" font-size="19" letter-spacing="3">SOFTWARE ENGINEERING • PRODUCT BUILDING</text>
-  <text x="70" y="155" fill="#f8fafc" font-family="Arial, sans-serif" font-size="48" font-weight="700">SYED TATHEER HUSSAIN</text>
-  <text x="73" y="205" fill="#38bdf8" font-family="Arial, sans-serif" font-size="27" font-weight="600">SOFTWARE DEVELOPER • FULL-STACK ENGINEER</text>
-  <text x="73" y="250" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="20">SaaS • Enterprise Systems • Web Applications • Tech4Edges</text>
-  <rect x="73" y="282" width="260" height="4" rx="2" fill="url(#accent)"/>
-  <text x="73" y="325" fill="#64748b" font-family="monospace" font-size="15">github.com/00tatheer00</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Tatheer Hussain — Software Engineer</title>
+  <desc id="desc">Software engineer focused on full-stack applications, SaaS, and system design. Founder of Tech4Edges.</desc>
+  <rect x="1" y="1" width="1198" height="338" rx="20" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <path d="M70 75h56" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+  <text x="70" y="122" fill="#6b7280" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">SOFTWARE ENGINEERING • PRODUCT BUILDING</text>
+  <text x="68" y="190" fill="#111827" font-family="Arial, sans-serif" font-size="48" font-weight="700">SYED TATHEER HUSSAIN</text>
+  <text x="71" y="238" fill="#374151" font-family="Arial, sans-serif" font-size="25" font-weight="600">SOFTWARE ENGINEER • FULL-STACK DEVELOPER</text>
+  <text x="71" y="278" fill="#6b7280" font-family="Arial, sans-serif" font-size="19">SaaS · Enterprise Applications · System Design · Tech4Edges</text>
+  <text x="71" y="315" fill="#9ca3af" font-family="monospace" font-size="14">github.com/00tatheer00</text>
+  <path d="M1090 72v196" stroke="#e5e7eb" stroke-width="2"/>
+  <path d="M1060 72h60M1060 268h60" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
 </svg>
