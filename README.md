@@ -1,91 +1,52 @@
-<!-- Profile README for 00tatheer00 -->
+# Syed Tatheer Hussain
 
-<div align="center">
+**Software Engineer · Full-Stack Developer · Founder, Tech4Edges**
 
-<img src="./assets/hero.svg" width="100%" alt="Syed Tatheer Hussain — Software Developer and Full-Stack Engineer">
+I design and build web applications, SaaS products, and business software — from architecture and implementation to testing and deployment.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatheer-hussain)
-[![GitHub](https://img.shields.io/badge/GitHub-00tatheer00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/00tatheer00)
-[![Linktree](https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tatheer_hussain)
-[![Portfolio source](https://img.shields.io/badge/Portfolio-Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/00tatheer00/tatheer.dev)
-
-</div>
-
----
-
-## About
-
-I'm **Syed Tatheer Hussain**, a software developer focused on building practical web applications, full-stack platforms, SaaS products, and business management systems.
-
-I work across the product lifecycle — from understanding a problem and designing its architecture to implementation, testing, and deployment. I am the **Founder of Tech4Edges** and also contribute to technology education and developer mentoring.
-
-- **Primary focus:** Full-Stack Development, SaaS, and Business Software
+- **Focus:** Full-stack engineering, SaaS, enterprise applications, system design
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs
-- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
-- **Engineering interests:** System Design, Authentication, RBAC, CI/CD, Cloud Deployment, AI-assisted workflows
-- **Based in:** Pakistan
+- **Data:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase
+- **Engineering:** Authentication, RBAC, CI/CD, cloud deployment, application security
+- **Location:** Pakistan
+
+[LinkedIn](https://www.linkedin.com/in/tatheer-hussain) · [GitHub](https://github.com/00tatheer00) · [Linktree](https://linktr.ee/tatheer_hussain)
 
 ---
 
-## Technology Stack
+## Technology
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,php,laravel,mongodb,postgres,mysql,firebase,supabase,redis,docker,linux,git,github,githubactions,vercel,aws&perline=8" alt="Technology stack">
-
-</div>
-
----
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express` · `PHP` · `Laravel` · `PostgreSQL` · `MongoDB` · `MySQL` · `Supabase` · `Firebase` · `Docker` · `Linux` · `GitHub Actions` · `AWS` · `Vercel`
 
 ## Selected Projects
 
-A selection of projects that demonstrate different areas of my software engineering work. See the repositories for implementation details and setup instructions.
-
-| Project | What it demonstrates | Stack |
+| Project | Overview | Technologies |
 |---|---|---|
-| [ShopFlow](https://github.com/00tatheer00/ShopFlow---Mobile-Shop-Management-SaaS) | Mobile-shop SaaS: POS, IMEI inventory, customer ledgers, expenses, and multi-tenant data isolation | Next.js, TypeScript, Supabase |
-| [Wholesale Distributor System](https://github.com/00tatheer00/WholeSale-Distributor-System) | Pharmaceutical distribution ERP with batch/expiry workflows, stock ledgers, sales, finance, and reporting | Next.js, TypeScript, PostgreSQL, Prisma |
-| [Student ERP System](https://github.com/00tatheer00/Student-ERP-System) | University operations: students, attendance, courses, results, fees, roles, and analytics | MongoDB, Express, React, Node.js |
-| [Visitor & Student Management](https://github.com/00tatheer00/Institute-of-Health-Sciences-Visitor-Student-Management-System) | Visitor check-in/out, student QR scanning, logs, and administration | React, Node.js, Express, MongoDB |
+| [ShopFlow](https://github.com/00tatheer00/ShopFlow---Mobile-Shop-Management-SaaS) | Mobile retail SaaS for POS, IMEI inventory, customer ledgers, purchasing, and expenses | Next.js, TypeScript, Supabase |
+| [Wholesale Distributor System](https://github.com/00tatheer00/WholeSale-Distributor-System) | Pharmaceutical distribution ERP with batch/expiry workflows, procurement, sales, and financial reporting | Next.js, TypeScript, PostgreSQL, Prisma |
+| [Student ERP](https://github.com/00tatheer00/Student-ERP-System) | Academic operations platform for student records, attendance, courses, results, fees, and role-based access | MongoDB, Express, React, Node.js |
+| [Visitor Management](https://github.com/00tatheer00/Institute-of-Health-Sciences-Visitor-Student-Management-System) | Visitor check-in/out, student QR entry, badges, administration, and reports | React, Vite, Express, MongoDB |
 | [AVENZON Marketplace](https://github.com/00tatheer00/AVENZON-Enterprise-Multi-Vendor-Marketplace) | Multi-vendor marketplace project | See repository |
-| [Personal Portfolio](https://github.com/00tatheer00/tatheer.dev) | Personal portfolio website and SEO foundations | HTML, CSS, JavaScript |
+| [Personal Portfolio](https://github.com/00tatheer00/tatheer.dev) | Personal portfolio website and technical SEO foundations | HTML, CSS, JavaScript |
 
----
+## Engineering Principles
 
-## Engineering Approach
-
-- Build around real user and business workflows.
-- Prefer clear architecture, maintainable code, and typed interfaces.
-- Treat authentication, authorization, validation, and data integrity as core requirements.
-- Document setup steps and operational decisions.
-- Verify changes with builds, tests, and deployment checks where available.
-
----
+- Model real workflows before choosing implementation details.
+- Prefer maintainable architecture, clear boundaries, and typed interfaces.
+- Treat authorization, validation, and data integrity as first-class requirements.
+- Document setup, environment configuration, and operational decisions.
+- Verify changes with builds, tests, and deployment checks.
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=00tatheer00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=00tatheer00&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=111827" alt="GitHub statistics">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00tatheer00&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151" alt="Most used languages">
 
 </div>
 
 ---
 
-## Current Focus
-
-`Full-Stack SaaS` · `Enterprise Applications` · `System Design` · `Cloud & CI/CD` · `AI-assisted Development`
-
----
-
-<div align="center">
-
-**Building useful software, one problem at a time.**
-
-</div>
+**Building useful software with clarity, reliability, and purpose.**
